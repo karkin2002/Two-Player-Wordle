@@ -9,7 +9,8 @@ For the gameplay, the server selects a word from a list and send it to each clie
 RUN REQUIREMENTS:
 - Python 3.10
 - pygame 2.0
+- pyperclip
 
-Make sure to run the server file first before running the Wordle file
+Run the Server.py file first before running Wordle.py file
 
 Put your IV4 IP address into the IPADDRESS.txt file
